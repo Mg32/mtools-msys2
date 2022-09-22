@@ -24,7 +24,7 @@
 # User specified flags
 USERCFLAGS = 
 USERLDFLAGS =
-USERLDLIBS =
+USERLDLIBS = -liconv
 
 MAKEINFO = makeinfo
 TEXI2DVI = texi2dvi

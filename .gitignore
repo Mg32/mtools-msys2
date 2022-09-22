@@ -1,4 +1,6 @@
 config.h
+*.o
+*.exe
 
 # http://www.gnu.org/software/automake
 
